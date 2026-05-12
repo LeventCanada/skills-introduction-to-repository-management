@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LeventCanada
+/src/backend/database.py      @LeventCanada
+/src/backend/routers/auth.py  @LeventCanada
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LeventCanada
